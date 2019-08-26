@@ -21,8 +21,8 @@ On your character sheet, you have a section with two attack types listed. Using 
 
 | Ability Score	| Unarmored |	Leather |	Chain	| Plate |
 | :---: | :---: | :---: | :---: | :---: | 
-| 1 - 4 |	12 |	15 | 17 | 19 |
-| 5 - 8 | 10 | 13 | 15 | 17 |
-| 9 - 12 | 8 | 11 | 13 | 15 |
-| 13 - 16 | 5 | 8 | 10 | 12 |
-| 17 - 20 |	3 | 6 | 8 | 10 |
+| 1 - 4 |	12 |	15 | 17 | 20 |
+| 5 - 8 | 10 | 13 | 15 | 19 |
+| 9 - 12 | 8 | 11 | 13 | 18 |
+| 13 - 16 | 5 | 8 | 10 | 17 |
+| 17 - 20 |	3 | 6 | 8 | 16 |
