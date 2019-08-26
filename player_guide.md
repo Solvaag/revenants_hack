@@ -26,3 +26,33 @@ On your character sheet, you have a section with two attack types listed. Using 
 | 9 - 12 | 8 | 11 | 13 | 18 |
 | 13 - 16 | 5 | 8 | 10 | 17 |
 | 17 - 20 |	3 | 6 | 8 | 16 |
+
+# Advancing your Abilities
+You learn by doing. After making a certain amount of checks, your Ability advances by +1 once you get a night’s rest in a safe haven. 
+
+How many checks you need to advance an Ability depends on your current Ability value. You need to have a certain amount of easy, challenging and hard checks made before you can advance. Consult the following table for an overview:
+
+| Ability Score | Easy | Challenging | Hard |
+| :---: | :---: | :---: | :---: |
+|2 | 1 | 1 | 1 | 
+| 3 | 1 | 1 | 1 | 
+|4 | 2| 1 |1 |
+|5 | 2 | 2 | 1 |
+|6 | 2 | 2 | 1| 
+|7 | 2 | 2 | 1 |
+|8| 3|2|2|
+|9| 3|2|2|
+|10|3|3|2|
+|11|3|3|2|
+|12|4|3|2|
+|13|4|3|2|
+| 14|4|3|2|
+|15|4|4|2|
+|16|5|4|3|
+|17|5|4|3|
+|18|5|4|3|
+
+Once your ability rises to a value of its original value + 4 or 18 (whichever is lowest), it cannot advance any further. 
+
+# Inventory
+In this game, characters are assumed to have two hands (1 slot each, up to 4 combined), two fast access slots and ten backpack slots. Many items fit within just one slot, such as a tablet, a light weapon, an stim pack or a stack of magazines. Some items can be oversized and take up more than just one slot, such as suits of armor or  two-handed weapons. Generally, a slot can one or multiples of the same thing at a total weight of 5 lbs or less. Items that are bulky do not fit in item slots and can only be carried using both hands. 
