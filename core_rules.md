@@ -94,3 +94,82 @@ If you *Aim* in the turn before a ranged attack, pick a single target in strikin
 
 If you perform *Stunt*, such as shoving, disarming or stunning, make an attack roll to a single target in striking range using a d20. If you hit, the target suffers the effects of the stunt. Stunts don’t normally deal damage, but can do so indirectly. You can optionally cause a problem for the target, but they can make a saving throw to avoid the effect.  See “Problems” section.
 
+## Critical Hits
+During an attack roll, if the attacker rolls a natural 20, the defender’s armor loses 1 point of quality and the attack deals damage rolls and also deals 1 Strain. If the attacker rolls a natural 1, the attacker’s weapon loses 1 point of quality and the attack only deals 1 damage. At 0 quality, the item is destroyed. Each point of quality costs 10% of the item’s cost to repair.
+
+## Problems
+Once per round, you can negate an enemy hit, but instead accept a problem. Problems come in two flavors; acute problems, which play out at the end of your following round, or continuing problems which sticks around until the end of the encounter. You can spend your combat action to resolve the problem by making a saving throw. If you accept a problem, roll a d10 and consult the following table:
+
+| d10 | Problem | Type |
+|:---:|:---:|:---:|
+| 1 | Janky Armor | Continuing |
+|2 | Lose an Item | Acute |
+| 3 | Ouch! | Acute
+|4| Sprained Ankle | Continuing |
+|5|Strained Effort | Acute |
+|6| Confusion | Continuing| 
+|7| Weird Bargain |  Acute |
+|8| Stroke of Bad Luck | Continuing |
+|9| Shaken | Continuing |
+|10| Freak Attack | Acute |
+
+**Janky Armor** - While this problem is in effect, you count as having a weaker type of armor. I.e. Leather, if you wear Chain. 
+
+**Lose an Item** - A random item in your inventory drops and rolls 30 feet away from you (don’t ask). 
+
+**Ouch!** - Damage one random ability by 1. It takes a week to heal. Adjust any values after the encounter.
+
+**Sprained Ankle** - Your combat speed is halved. 
+
+**Strained Effort** - Become ‘knocked out’ as per the Death and Luck table, except you require rest for hours instead of days. 
+
+**Confusion** - Disadvantage on rolls involving Intelligence, Wisdom and Charisma.
+
+**Weird Bargain** - Suffer 10 damage if you cannot resolve this problem. 
+
+**Stroke of Bad Luck** - Randomly pick an armor or weapon - reduce its quality by 1. 
+
+**Shaken** - Disadvantage on rolls involving Strength,  Dexterity and Constitution.
+
+**Freak Attack**  - Make a Constitution save. On a success, you lose half of your current Luck. On a fail, you are reduced to 0 Luck. 
+
+## Death & Luck
+
+### Out of Luck:
+At the end of the encounter, for all PCs and important NPCs that are unconscious, roll a d20 - Strain on the following table:
+
+| d20 | Result |
+| :---: | :---: | 
+|1 - 8 | Dead |
+| 9 - 11 | Permanent Injuries |
+|12 - 14 | Knocked Out |
+| 15 - 17 | Close Call |
+| 18 - 20 | Lucky |
+
+**Dead: **
+You die. Roll up a new character.
+
+**Permanent Injuries:**
+Randomly determine an Ability. Roll 3d6 and pick the lowest die. The ability's current value is permanently reduced by this amount. In addition, the maximum value you can advance to with this Ability  is also reduced by this amount. 
+
+**Knocked Out:**
+Your current luck is set to 0, but you need constant bed rest to recover for 2d6 - CON days. You cannot regain luck until after this recovery period.  
+
+**Close Call:**
+Your current luck is set to 0, and one random item in your inventory is destroyed - it took the brunt of the blow that would have otherwise killed you. 
+
+**“Lucky”:**
+That wasn't so bad. Your current luck is set to 0. You regain 1 luck and consciousness after d6 hours.
+
+**Shifting Luck:**
+If your character was reduced to half or less Luck during a combat encounter, there is something amiss with your luck. Roll a d20 on the following table to determine how much your Max Luck changes:
+
+| d20 | Luck Change |
+| :---: | :---: |
+| 1 - 4 | −8 |
+| 5 - 9 | −4 | 
+| 10 - 13 | 0 |
+| 14 - 17 | +4 |
+| 18 - 20 | +8 |
+
+Note, your Max Luck cannot change to a value lower than 1 and higher than 4 * Hexes explored or the Max Luck your character started with.  
