@@ -14,7 +14,7 @@ Revenant's Hack is available on github. You can find the following documents on 
 
 [Compatibility](https://github.com/Solvaag/revenants_hack/blob/master/compatibility.md)
 
-Most of the documents are still works in progress. If you find something you believe are errors, please raise an issue. :kissing_heart:
+Most of the documents are still works in progress. If you find something you believe are errors, please raise an [issue](https://github.com/Solvaag/revenants_hack/issues). :kissing_heart:
 
 # It's free!
 
