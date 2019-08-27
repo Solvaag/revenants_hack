@@ -24,5 +24,5 @@ Use the following guidelines for what ability to use for a saving throw:
 * **Wisdom** against deceptions and illusions.
 * **Charisma** against charming effects. 
 
-Advantage and Disadvantage
+# Advantage and Disadvantage
 Sometimes your character gains an edge or set back, be it from a spell, circumstance or special ability. These rules might confer advantage to your checks and saves, which lets you roll 2d20 and pick the highest one for your result. Similarly, some situations may cause you to have disadvantage to checks and saves, in which you must roll 2d20 and pick the lowest of the two for your result. For each source that gives you advantage, you may cancel one source of disadvantage for a given round. 
