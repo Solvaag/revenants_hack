@@ -2,6 +2,8 @@
 
 Hello and welcome to the git repository for the Revenant's Hack. Here you can find a ruleset written in the style of Dungeons & Dragons, but with many alterations made to simplify play. The game is compatible with old school D&D material, as well as many newer products such as Old School Renaissance/Revival publications. 
 
+If you like what you read here, please visit my blog [Revenant's Quill](https://www.revenant-quill.com/). 
+
 # Online Rules
 
 Revenant's Hack is available on github. You can find the following documents on this page:
