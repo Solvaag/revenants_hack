@@ -32,7 +32,7 @@ Sometimes your character gains an edge or set back, be it from a spell, circumst
 # Luck, Grit, Strain and Damage
 In Revenant’s Hack, Luck represents a mix of morale, grace and, well, luck!  When in dangerous encounters and dealing with hazards, damage dealt to you lowers your Luck, while more serious events such as close calls with death can change your Grit. Your Luck cannot be higher than your Grit. If your Luck reaches 0, you fall unconscious at the end of the following round. 
 
-Grit represents your character's physical health and endurance, while Strain represents lasting effects on that. Bruising, trauma and injury may lower your Grit, so each time damage is dealt to you, you also have a chance of losing Grit due to Strain. If Grit is reduced to 0, you die. 
+Grit represents your character's physical health and endurance, while Strain represents lasting effects on that. Bruising, trauma and injury may lower your Grit, so each time damage is dealt to you, you also have a chance of losing Grit due to Strain. If Grit is reduced to 0, you lose d3 Luck per round. If both Luck and Grit is reduced to 0, you die.  
 
 Damage in Revenant’s Hack represents the potential to sustain injury. Whenever you suffer damage, you lower your Luck by the amount indicated on the dice, and you lower your Grit according to Strain. Strain is found by comparing the damage dice to the Strain table. See xxxx 
 
