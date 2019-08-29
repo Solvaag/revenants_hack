@@ -1,3 +1,5 @@
+[attack pentagon]: https://github.com/Solvaag/revenants_hack/blob/master/Triangle.png "The Attack Pentagon."
+
 # Abilities
 
 ## Checks
@@ -27,22 +29,22 @@ Use the following guidelines for what ability to use for a saving throw:
 ## Advantage and Disadvantage
 Sometimes your character gains an edge or set back, be it from a spell, circumstance or special ability. These rules might confer advantage to your checks and saves, which lets you roll 2d20 and pick the highest one for your result. Similarly, some situations may cause you to have disadvantage to checks and saves, in which you must roll 2d20 and pick the lowest of the two for your result. For each source that gives you advantage, you may cancel one source of disadvantage for a given round. 
 
-# Luck, Strain and Damage
-In Revenant’s Hack, Luck represents a mix of morale, grace and, well, luck!  When in dangerous encounters and dealing with hazards, damage dealt to you lowers your Current Luck, while more serious events such as close calls with death can change your Max Luck. Your Current Luck cannot be higher than your Max Luck, and whenever you are said to regain Luck, it is your Current Luck you adjust. If your Current Luck reaches 0, you fall unconscious at the end of the following round. 
+# Luck, Grit, Strain and Damage
+In Revenant’s Hack, Luck represents a mix of morale, grace and, well, luck!  When in dangerous encounters and dealing with hazards, damage dealt to you lowers your Luck, while more serious events such as close calls with death can change your Grit. Your Luck cannot be higher than your Grit. If your Luck reaches 0, you fall unconscious at the end of the following round. 
 
-Strain represents lasting effects on your character’s health and endurance. Strain starts at 0 and increases whenever you suffer serious damage. At the end of any encounter or escape from a hazard, if you have suffered Strain and you are unconscious, you must roll on the “Out of Luck” table in the “Death & Luck” section.  
+Grit represents your character's physical health and endurance, while Strain represents lasting effects on that. Bruising, trauma and injury may lower your Grit, so each time damage is dealt to you, you also have a chance of losing Grit due to Strain. If Grit is reduced to 0, you die. 
 
-Damage in Revenant’s Hack represents the potential to sustain injury. Whenever you suffer damage, you must compare the  amount of damage to your Current Luck or Shield, whichever is highest. If the damage amount is higher, then you suffer 1 Strain. Otherwise, your Current Luck is reduced by 1. Current Luck cannot be reduced below 0, so any further reduction to Current Luck counts as 1 Strain instead. 
+Damage in Revenant’s Hack represents the potential to sustain injury. Whenever you suffer damage, you lower your Luck by the amount indicated on the dice, and you lower your Grit according to Strain. Strain is found by comparing the damage dice to the Strain table. See xxxx 
 
 # Rest
 
 You have an amount of **Rest Points** equal to twice your Constitution. 
 
-You can spend 1 Rest Point as part of a for every 10 minutes spent, either eating, drinking or relaxing. For each Rest Point you spend this way, you regain 1 Current Luck, or for every 4 Rest Points you spend, you can reduce 1 Strain.
+You can spend 1 Rest Point as part of a for every 10 minutes spent, either eating, drinking or relaxing. For each Rest Point you spend this way, you regain 1 Luck.
 
 If you eat a meal and get a full night’s rest, you regain half of your spent Rest Points. 
 
-If you rest in a safe haven  you regain all your Rest Points and your Current Luck is set to your Max Luck. In addition, a night’s rest in a safe haven reduces 1 Strain. 
+If you rest in a safe haven  you regain all your Rest Points and your Luck is set to your Grit value. 
 
 # Encounters
 ## Reactions
@@ -73,11 +75,20 @@ A combat action can be casting a spell, a second move, an attack, stunt or anyth
 
 To make an attack, first determine who is within striking range. Next, determine the best defense type of the targets in striking range. There are four defense types; Unarmored, Leather, Chain and Plate. Each of these should be noted on your character sheet. You use your Strength for melee attacks and Wisdom for ranged attacks. To gain a **hit**, you make an attack roll using a d20. If the number is equal to or higher than the value indicated for the defense type. If you roll lower, you deal a **graze** instead. 
 
-To determine the damage of your attack, make a **damage roll** using the die indicated in the description of your weapon, or one die size lower if the attack was a graze. The damage indicated of your damage roll is dealt to the target you made the attack roll against. 
+To determine the damage of your attack, make a **damage roll** using the die indicated in the description of your weapon, or one die size lower if the attack was a graze. The damage indicated of your damage roll is dealt to the target you made the attack roll against. Damage from hits have a chance of dealing **Strain**. To find the amount of Strain you dealt, compare each die rolled in the damage roll to the table below:
+
+| Damage Roll | Strain |
+| :---: | :---: |
+| 1 | 0 |
+| 1 - 5 | 3 |
+| 6 - 9 | 6 |
+| 10+ | 12 |
 
 Striking range for melee weapons is usually a radius of 5 ft from your character’s position, while for most ranged weapons it is either a line or cone (10 feet at its broadest) that is 120 ft long. Creatures only have to be partially within the striking range to suffer damage. 
 
 As a general rule, you deal at least 1 damage to every target inside your striking range. Even if you do not take the attack action, you can still deal this damage. 
+
+![If you can see this, please raise an issue][attack pentagon]
 
 When you make an Attack action, you have some options available to you. In the above illustration, these options are arranged along the “attack pentagon”. You can pick one option, and one neighbor of that option. I.e.  if you pick Speed, then you can pick either Reach or Multiple targets in addition. The options effects are as follows:
 * Damage boost - Increase the damage die of your weapon by one size step. 
@@ -146,7 +157,7 @@ At the end of the encounter, for all PCs and important NPCs that are unconscious
 | 15 - 17 | Close Call |
 | 18 - 20 | Lucky |
 
-**Dead: **
+**Dead:h**
 You die. Roll up a new character.
 
 **Permanent Injuries:**
