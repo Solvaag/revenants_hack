@@ -15,7 +15,7 @@ On your character sheet, note down each sum in the cell next to the label. Your 
 
 * Modifiers are only used in certain occasions. 
 
-Your **Grit** is equal to your Constitution.
+Your **Grit** and your **Luck** are equal to your Constitution.
 
 On your character sheet, you have a section with two attack types listed. Using your abilities, consult the following chart. For melee attacks, use your Strength value, and for ranged attacks use your Wisdom value:
 
@@ -55,4 +55,4 @@ How many checks you need to advance an Ability depends on your current Ability v
 Once your ability rises to a value of its original value + 4 or 18 (whichever is lowest), it cannot advance any further. 
 
 # Inventory
-In this game, characters are assumed to have two hands (1 slot each, up to 4 combined), two fast access slots and ten backpack slots. Many items fit within just one slot, such as a tablet, a light weapon, an stim pack or a stack of magazines. Some items can be oversized and take up more than just one slot, such as suits of armor or  two-handed weapons. Generally, a slot can one or multiples of the same thing at a total weight of 5 lbs or less. Items that are bulky do not fit in item slots and can only be carried using both hands. 
+In this game, characters are assumed to have two hands (1 slot each, up to 4 combined), two fast access slots and ten backpack slots. Many items fit within just one slot, such as a small book, a light weapon, a hip flask or a pack of bullets. Some items can be oversized and take up more than just one slot, such as suits of armor or  two-handed weapons. Generally, a slot can one or multiples of the same thing at a total weight of 5 lbs or less. Items that are bulky do not fit in item slots and can only be carried using both hands. 
